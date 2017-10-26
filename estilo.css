@@ -12,6 +12,9 @@
   padding: 10px;
   padding-bottom: 0;
 }
+#folder-icon{
+    padding-top: 10%;
+}
   body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
@@ -35,6 +38,11 @@
   .bg-grey {
       background-color: #f6f6f6;
   }
+
+  .bg-grey-alt {
+      background-color: #212121;
+  }
+
   .logo-small {
       color: #f4511e;
       font-size: 50px;
@@ -123,6 +131,9 @@
       font-family: Montserrat, sans-serif;
   }
 
+  myFooter{
+    background: black;
+  }
   footer .glyphicon {
       font-size: 20px;
       margin-bottom: 20px;
